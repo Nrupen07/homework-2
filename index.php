@@ -11,6 +11,7 @@
   </head>
  
   <h1> Welcome to Homework 2!! </h1>
+   <p>  </p>
   <h2> POST </h2>
   
 <form action="handlepost.php" method="post">
