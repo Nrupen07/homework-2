@@ -12,19 +12,20 @@
  
   <h1 style="color:Red;"> Welcome to Homework 2!! (PHP Reference with use of POST and GET functions) </h1>
    <br> </br>
-   <h2 style="color:Gray;"> GET </h3>
-   
-  <form action="welcome_get.php" method="get">
-Name: <input type="text" name="name"><br>
-E-mail: <input type="text" name="email"><br>
-<input type="submit">
-     <br> </br>
-  <h3 style="color:Gray;"> POST </h2>
+  <h2 style="color:Gray;"> POST </h2>
   
 <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">  
+   <br> </br>
+   <h3 style="color:Gray;"> GET </h3>
+   
+  <form action="welcome_get.php" method="get">
+Name: <input type="text" name="name"><br>
+E-mail: <input type="text" name="email"><br>
+<input type="submit">
+  
   
 </form>
 </form>
