@@ -17,10 +17,10 @@
 <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
-<input type="submit">
-  
+<input type="submit">  
    <br> </br>
   <h3> GET </h3>
+   
   <form action="welcome_get.php" method="get">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
