@@ -11,11 +11,7 @@
   </head>
  
   <h1> Welcome to Homework 2!! </h1>
-   <p>  </p>
-   <p>  </p>
-   <p> </p>
-   <p> </p>
-   <p> </p>
+   <br> </br>
   <h2> POST </h2>
   
 <form action="handlepost.php" method="post">
@@ -23,11 +19,7 @@ Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">
   
-   <p> </p>
-   <p> </p>
-   <p> </p>
-   <p> </p>
-   <p> </p>
+   <br> </br>
   <h3> GET </h3>
   <form action="welcome_get.php" method="get">
 Name: <input type="text" name="name"><br>
