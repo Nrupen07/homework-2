@@ -2,7 +2,9 @@
 <html lang = "en">
 <body>
   
-<h1> Welcome to Homework 2!! </h1>
+  <h1> Welcome to Homework 2!! </h1>
+  <h2> POST </h2>
+  
 <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
