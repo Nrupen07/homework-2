@@ -10,21 +10,22 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
   </head>
  
-  <h1> Welcome to Homework 2!! (PHP Reference with use of POST and GET functions) </h1>
+  <h1 style="background-color:DodgerRed;"> Welcome to Homework 2!! (PHP Reference with use of POST and GET functions) </h1>
    <br> </br>
-  <h2> POST </h2>
-  
-<form action="handlepost.php" method="post">
-Name: <input type="text" name="name"><br>
-E-mail: <input type="text" name="email"><br>
-<input type="submit">  
-   <br> </br>
-  <h3> GET </h3>
+   <h2 style="background-color:DodgerGray;"> GET </h3>
    
   <form action="welcome_get.php" method="get">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">
+     <br> </br>
+  <h3 style="background-color:DodgerGray;"> POST </h2>
+  
+<form action="handlepost.php" method="post">
+Name: <input type="text" name="name"><br>
+E-mail: <input type="text" name="email"><br>
+<input type="submit">  
+  
 </form>
 </form>
 </html>
