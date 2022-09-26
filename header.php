@@ -57,7 +57,7 @@
  
   <h1 style="color:Red;"> Welcome to Homework 2!! (PHP Reference with use of POST and GET functions) </h1>
   
-  <? php 
+  <?php 
   function write() {
   echo "PHP reference"; }
   
