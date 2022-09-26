@@ -3,8 +3,5 @@ include "postpage.php";
 include "getpage.php";
 ?>
 
-
-
-
 </body>
 </html>
