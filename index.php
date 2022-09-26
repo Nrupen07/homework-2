@@ -1,6 +1,6 @@
 <?php include "header.php"; 
-include "postpage.html";
-include "getpage.html";
+include "postpage.php";
+include "getpage.php";
 ?>
 
 
