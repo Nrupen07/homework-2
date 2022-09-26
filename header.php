@@ -57,5 +57,7 @@
  
   <h1 style="color:Red;"> Welcome to Homework 2!! (PHP Reference with use of POST and GET functions) </h1>
   
-  <? php writeMSg() {
-  echo PHP function assignment >?
+  <? php 
+  function writeMSg() {
+  echo "This is PHP Function Assignment";
+} 
