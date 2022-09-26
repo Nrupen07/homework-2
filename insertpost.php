@@ -1,4 +1,4 @@
-
+  <h2 style="color:Gray;"> POST </h2>
    
   <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
