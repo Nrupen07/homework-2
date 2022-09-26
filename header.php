@@ -60,4 +60,7 @@
   <? php 
   function writeMSg() {
   echo "This is PHP Function Assignment";
-} 
+}
+  
+  writeMSg();
+  >?
